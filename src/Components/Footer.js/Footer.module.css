@@ -1,0 +1,101 @@
+.totalFooterContainer{
+    width: 100%;
+    height: 241px;
+    left: -1px;
+    padding-bottom:0px;
+}
+/* .ImageFooter svg{
+    width: 30%;
+    padding: 0;
+} */
+.ImageFooter img{
+    width: 72.3%;
+    height: 117px;
+}
+.footerBlack{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    width: 100%;
+    height: 124px;
+    margin-left: 0px;
+    margin-top: -3.9px;
+    background-color: #2D2D2D;
+    gap: 83px;
+}
+
+.footerTextContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 83px;
+
+    width: 91.2%;
+    height: 24px;
+}
+
+.SolarPanelDiv{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 13px;
+
+    width: 183px;
+    height: 24px;
+}
+.SolarPanelDiv p{
+    width: 155px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    
+    color: #D1D1D1;
+}
+.CopyrightText{
+    width: auto;
+    height: 20px;
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 20px;
+
+    color: #FFFFFF;
+}
+
+.Privacy{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 10px;
+
+    width: 369px;
+    height: 20px;
+
+
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    color: #FFFFFF;
+}

@@ -1,0 +1,180 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    height: 64px;
+    width: 100%;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+
+    background-color: #FFFFFF;
+    border-bottom: 1px solid #EFEFEF;
+}
+
+.subNav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 24px;
+    width: 183px;
+    border-radius: 0px;
+    gap: 13px;
+}
+
+.smallDot{
+    background-color:#FB923C;
+    height: 15px;
+    width: 15px;
+    margin-right: 10px;
+    border-radius: 50px;
+}
+
+.totalFooterContainer{
+    width: 100%;
+    height: 241px;
+    left: -1px;
+    padding-bottom:0px;
+}
+/* .ImageFooter svg{
+    width: 30%;
+    padding: 0;
+} */
+.ImageFooter img{
+    width: 72.3%;
+    height: 117px;
+}
+.footerBlack{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    width: 100%;
+    height: 124px;
+    margin-left: 0px;
+    margin-top: -3.9px;
+    background-color: #2D2D2D;
+    gap: 83px;
+}
+
+.footerTextContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 83px;
+
+    width: 91.2%;
+    height: 24px;
+}
+
+.SolarPanelDiv{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 13px;
+
+    width: 183px;
+    height: 24px;
+}
+.SolarPanelDiv p{
+    width: 155px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    
+    color: #D1D1D1;
+}
+.CopyrightText{
+    width: auto;
+    height: 20px;
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 20px;
+
+    color: #FFFFFF;
+}
+
+.Privacy{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 10px;
+    width: 369px;
+    height: 20px;
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.CongoMSG{
+    font-family: Poppins;
+    width: auto;
+    height: 442px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 94px;
+    border: 1px solid black;
+}
+.Congrats{
+color: #FB923C;
+font-weight: 700;
+font-size: 30px;
+line-height: 45px;
+}
+.slogan{
+    border: 1px solid black;
+    display: flex;
+    margin-bottom: 30px;
+    flex-direction: column;
+    align-items: center;
+    width: 600px;
+    line-height: 27px;
+    height: 56px;
+}
+.btn{
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px 40px;
+gap: 15px;
+font-family: Poppins;
+font-size: 30px;
+font-weight: 700;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+background: linear-gradient(267.78deg, #FB923C 0.19%, #BC5C4F 72.78%);
+border-radius: 5px;
+margin-bottom: 30px;
+}

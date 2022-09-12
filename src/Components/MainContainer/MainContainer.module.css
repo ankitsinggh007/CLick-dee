@@ -1,0 +1,51 @@
+.Container{
+   display: flex;
+   justify-content: content;
+   align-items: center;
+   text-align: center;
+   flex-direction: column;
+   gap: 10px;
+    
+   width: 590px;
+   height: 134px;
+   margin-left: 30.5%;
+   margin-top: 63px;
+}
+
+.Container .p1{
+    width: 127px;
+    margin-top: 0px;
+    border-radius: nullpx;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+
+    text-transform: uppercase;
+    color: #FB923C;
+}
+
+.p2{
+    width: 352px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+
+    text-align: center;
+    color: #000000;
+}
+
+.p3{
+    width: 590px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+
+    color: #7A7A7A;
+}
